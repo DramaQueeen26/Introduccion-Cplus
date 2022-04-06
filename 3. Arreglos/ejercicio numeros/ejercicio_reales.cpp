@@ -1,3 +1,10 @@
+/*
+
+	Guardar 30 numeros en un arreglo y mostrar el promedio en las posiciones múltiplos
+	de 3 y el número mayor
+
+*/
+
 #include <iostream>
 #include "reales.cpp"
 using namespace std;

@@ -1,3 +1,12 @@
+/*
+
+	Guardar los datos de un estudiante, nombre, edad y sección y mostrar:
+	-La cantidad estudiantes mayores de 20 en la seccion A
+	-Los datos de un estudiante al buscarlo
+
+*/
+
+
 //Nombre del archivo: ejercicio_estudiantes.cpp
 #include <iostream>
 #include "estudiantes.cpp"

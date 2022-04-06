@@ -1,3 +1,6 @@
+//Potencias de números
+
+
 #include <iostream>
 #include <string>
 using namespace std;

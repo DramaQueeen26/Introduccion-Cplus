@@ -1,3 +1,6 @@
+//Pedir por consola si el usuario es extrangero o venezolano y también su C.I (sin puntos)
+
+
 #include <iostream>
 #include <string>
 using namespace std;

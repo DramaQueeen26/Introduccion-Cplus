@@ -1,3 +1,6 @@
+//Imprimir en pantalla un caracter y el numero introducido menos 1
+
+
 #include <iostream>
 #include <string>
 using namespace std;

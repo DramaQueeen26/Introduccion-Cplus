@@ -1,3 +1,6 @@
+//Introducir por consola un numero par y mostrar el numero impar siguiente y el numero par anterior multiplicado por -1
+
+
 #include <iostream>
 #include <string>
 using namespace std;

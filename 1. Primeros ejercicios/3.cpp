@@ -1,3 +1,6 @@
+//Sacar el factorial de un número
+
+
 #include <iostream>
 #include <string>
 using namespace std;

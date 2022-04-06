@@ -1,3 +1,6 @@
+//IMPRIMIR UNA CADENA Y UN NÚMERO ENTERO
+
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -6,6 +9,7 @@ void cadena_entero(int entero, string cadena);
 
 int entero;
 string cadena;
+
 
 int main(){
 	cout << "Coloque una cadena " << endl; getline(cin, cadena);

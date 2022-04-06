@@ -13,18 +13,3 @@ DESARROLLE UN PROGRAMA ENFOCADO EN UNA CLASE, ES DECIR, CON UN ARCHIVO DE ENCABE
 6. Una función que plasme un menú de opciones mostrando por cónsola los aspectos anteriores, y permita escoger al usuario uno de ellos, retornando en un número entero la opción seleccionada.
 
 
-
-1. Desarrole una clase que maneje un arreglo de 6 notas de un alumno entre 0 y 20 y en varios metodos permita:
-- Mostrar cuál fue la mayor nota que obtuvo
-- Cuántas notas aprobó
-- El índice de eficiencia del alumno (entre 0 y 1)
-- El promedio de notas que tiene el alumno
-
-
-2. Desarrole una clase que maneje el monto de ventas de una tienda en todos los dias durante cuatro semanas y que me permita:
-- Mostrar cuántos días no hubo ventas
-- Mostrar el promedio de ventas en las 4 semanas
-- Calcular cuál fue el mejor día en ventas
-- Buscar en qué día(s) hubo ventas por debajo de 80 $
-
-Al igual que el programa anterior, al momento de ingresar los montos diarios de ventas, deben validarse los valores

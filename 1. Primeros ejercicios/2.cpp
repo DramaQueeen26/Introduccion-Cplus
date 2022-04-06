@@ -1,3 +1,6 @@
+//IMPRIMIR LA PARTE DECIMAL DE UN NUMERO REAL
+
+
 #include <iostream>
 #include <string>
 using namespace std;

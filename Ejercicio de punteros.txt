@@ -1,3 +1,5 @@
+/*Ejercicio de punteros*/
+
 Lista.h
 
 #include <string>
@@ -148,12 +150,12 @@ Lista x;
 int main()
 {
     setlocale(0,"SPANISH");
-      x.incluir(28454829, 28454829, 18, "Mariangel");
-      x.incluir(28454829, 13603033, 42, "Miriangel");
-      x.incluir(28454829, 33126061, 11, "William");
-      x.incluir(33126061, 13603346, 42, "José");
+      x.incluir(28454829, 28454829, 18, "Lucia");
+      x.incluir(28454829, 13603033, 42, "Maria");
+      x.incluir(28454829, 33126061, 11, "Andres");
+      x.incluir(33126061, 13603346, 42, "Jose");
       x.mostrar_datos();
-      x.eliminar("Miriangel", 42);
+      x.eliminar("Maria", 42);
       x.mostrar_datos();
     return 0;
 }
